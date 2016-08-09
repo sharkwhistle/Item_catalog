@@ -1,0 +1,210 @@
+* {
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+ }
+
+
+ h1 {
+ 	font-family: 'Montserrat', sans-serif;
+ 	font-size: 50px;
+ 	color: white;
+ 	line-height: 60px;
+ 	font-weight: 300;
+  opacity: 0.8;
+ }
+
+
+ h2 {
+ 	font-size: 24px;
+ 	color: #42C3C9;
+ 	line-height: 29px;
+ }
+
+
+ h3 {
+ 	font-size: 18px;
+ 	color: #4A4A4A;
+ 	line-height: 23px;
+  text-align: center;
+ }
+  p {
+  	font-family: 'Montserrat', sans-serif;
+  	font-size: 16px;
+  	color: #7B7573;
+  	line-height: 24px;
+  	font-weight: 400;
+  }
+
+
+  strong {
+  	font-size: 16px;
+  	color: #7B7573;
+  	line-height: 24px;
+  }
+
+
+  a {
+  	font-size: 14px;
+  	color: #0093B9;
+  	line-height: 17px;
+  }
+ .padding-top {
+ 	padding-top: 30px;
+ }
+ .padding-bottom {
+ 	padding-bottom: 30px;
+ }
+ .margin-right {
+ 	margin-right: 30px;
+ }
+ .padding-none {
+ 	padding: 0;
+ }
+
+ .btn {
+ 	padding: 10px;
+ 	margin: 0;
+ 	border-color:  #0086b3;
+ 	border-width: 2px;
+ 	color: #1f1f1f;
+ }
+
+ .btn:hover {
+ 	border-color: #99FFFF;
+ }
+
+ .btn.delete {
+ 	border-color:  #0086b3;
+ 	color: #1f1f1f;
+ }
+
+ .btn.delete:hover {
+ 	border-color: #99FFFF;
+ 	color: red;
+ }
+
+ .glyphicon {
+ 	margin-right: 10px;
+  text-align: left;
+ }
+
+ .glyphicon-home {
+    padding-top: 10px;
+ }
+
+ .text-right {
+   padding-top: 10px;
+ }
+
+ .top-menu {
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+ }
+
+ .top-menu p {
+ 	margin-bottom: 0;
+ 	line-height: 16px;
+ }
+
+ .top-menu a {
+ 	margin-bottom: 0;
+ 	line-height: 16px;
+ 	font-size: 16px;
+ 	color: #7B7573;
+ 	font-weight: 400;
+ }
+
+ .divider {
+ 	height: 15px;
+ }
+
+ .banner.main {
+ 	height: 250px;
+  width: 100%;
+  margin: 0 auto;
+ 	background: url("/static/gamelan1.jpg");
+ 	background-position: right;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ }
+
+ .banner.menu {
+ 	height: 250px;
+  margin-top: 60px;
+ 	background-color: #E1E17F;
+  background: url("/static/gamelan1.jpg");
+  background-position: right;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ }
+
+ .banner.profile {
+ 	height: 150px;
+ 	background-color: #A6E8EB;
+ }
+
+ .banner h1 {
+ 	margin: 45px 0;
+ }
+
+.genre-list {
+  background-color: #F0F0F0;
+  margin: auto;
+
+  }
+
+.genre-list:hover {
+	background-color: #99FFFF;
+  padding: 0px;
+
+ }
+
+ .instrument {
+ 	background: #F0F0F0;
+ 	padding: 20px;
+ 	margin: 20px;
+ 	margin-left: -20px;
+  text-align: left;
+ }
+
+ .instrument h3 {
+   text-align: left;
+ }
+
+ .instrument-price {
+ 	font-weight: 700;
+ }
+
+ .creator {
+ 	padding-right: 20px;
+ 	margin-top: -20px;
+ 	text-align: right;
+ 	float:right;
+ }
+
+ .creator img {
+ 	width: 100px;
+ 	border-radius: 50%;
+ }
+
+ .creator figcaption {
+ 	font-size: 14px;
+ 	color: #7B7573;
+ 	font-weight: 400;
+ 	margin-top: -20px;
+ }
+
+ .flash {
+ 	background-color: #99ffff;
+ 	width:100%;
+ 	text-decoration: none;
+ }
+
+ .flash li {
+ 	list-style-type: none;
+ 	text-align: center;
+ }
+
+ .foot {
+   height: 30px;
+ }
